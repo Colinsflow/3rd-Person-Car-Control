@@ -5,9 +5,11 @@ Designed By: Colin Graves
 
 Platform Used: SunFounder PiCar-X
 
-Modifications: 3D Printed Upper Chassis, Adafruit 9-Axis IMU.
+Modifications: 3D Printed Upper Chassis
 
-Controller: Sony Dualshock 4 Remote (Bluetooth)
+Sensors: Adafruit 9-Axis Inertial Measurement Unit (IMU)
+
+Controller: Sony Dualshock 4 Remote [Bluetooth]
 
 Benefits:
 The user can intuitively maneuver a robot.
