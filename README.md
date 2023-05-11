@@ -11,6 +11,11 @@ Sensors: Adafruit 9-Axis Inertial Measurement Unit (IMU)
 
 Controller: Sony Dualshock 4 Remote [Bluetooth]
 
+
+Breakdown:
+
+The Joystick X and Y axis inputs are mapped into polar coordinates. Using the angle of the stick we impose a change to the steering servo dependant on the difference of the sticks angle  to the actual orientation angle of the car.
+
 Benefits:
 
 The user can intuitively maneuver a robot.
