@@ -4,5 +4,7 @@ This program mimics car control similar to what is seen in 3rd person perspectiv
 Designed By: Colin Graves
 
 Platform Used: SunFounder PiCar-X
+
 Modifications: 3D Printed Upper Chassis, Adafruit 9-Axis IMU.
 
+Controller: Sony Dualshock 4
