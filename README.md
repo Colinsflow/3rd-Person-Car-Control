@@ -19,7 +19,9 @@ Using I2C to interface with an inertial measurement unit, self orientation of th
 
 IO:
 -Right Trigger: Accelerator
+
 -Left Trigger: Break
+
 -Right Stick: Intended Direction
 
 Project Expansion:
